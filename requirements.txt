@@ -1,7 +1,8 @@
 python-dotenv
 
+langchain
+langchain-text-splitters
 langchain-chroma
 langchain-google-genai
-langchain
 
 PyPDF
